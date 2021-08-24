@@ -10,9 +10,9 @@
 
 - TAG Registration
 
-- [ ] Not allowed to register more than one tag with same name
-- [ ] Not allowed to register a tag without name
-- [ ] Registration is not allowed by user who are not admins
+- [x] Not allowed to register more than one tag with same name
+- [x] Not allowed to register a tag without name
+- [x] Registration is not allowed by user who are not admins
 
 
 - Compliments Registration
